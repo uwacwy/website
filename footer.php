@@ -3,10 +3,11 @@
 </div>
 
 <!-- NO EDITING BELOW THIS LINE -->
-<div class="footer">
+<div class="footer" id="uwac_footer">
 	<p class="small">United Way of Albany County<br />
 	&copy; <?php echo date('Y'); ?> All Rights Reserved<br />
 	LIVE UNITED and the United Way trademarks are property of United Way Worldwide. Used with permission.</p>
+  <p class="small">United Way of Albany County source code is available at <a href="https://www.github.com/uwacwy">GitHub</a>.</p>
 </div>
 
 <script src="http://code.jquery.com/jquery-1.6.4.min.js"></script> 
